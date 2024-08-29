@@ -1,0 +1,17 @@
+from collections import deque
+
+def solution(s):
+    queue = deque()
+    for s_ in s:
+        if s_ == ')':
+            if queue and queue[0] == '(':
+                queue.popleft()
+            else:
+                return False
+        else:
+            queue.append(s_)
+
+    return True
+
+s = input()
+solution(s)
