@@ -11,7 +11,7 @@ def solution(s):
         else:
             queue.append(s_)
 
-    return True
+    return len(queue) == 0
 
 s = input()
 solution(s)
