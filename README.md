@@ -14,3 +14,5 @@
 |실버4|스택/큐|[18258](https://www.acmicpc.net/problem/18258)|[풀이](https://github.com/jin8073/coding-test-practice/blob/main/%ED%81%90/18258.py)|⭕|
 |골드5|스택/큐|[2493](https://www.acmicpc.net/problem/2493)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D/2493.py)|🚫|
 |level2|스택/큐|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8.py)|⭕|
+|level2|스택/큐|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.py)|🚫|
+|실버2|BFS/DFS|[1012](https://www.acmicpc.net/problem/1012)|[풀이]()|❌|
