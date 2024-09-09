@@ -18,4 +18,5 @@
 |실버2|BFS/DFS|[1012](https://www.acmicpc.net/problem/1012)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS/1012.py)|❌|
 |level2|BFS/DFS|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.py)|🚫|
 |골드5|BFS/DFS|[10026](https://www.acmicpc.net/problem/10026)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/10026.py)|⭕|
+|level3|BFS/DFS|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/%EB%8B%A8%EC%96%B4_%EB%B3%80%ED%99%98.py)|❌|
 
