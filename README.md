@@ -21,4 +21,5 @@
 |level3|BFS/DFS|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/%EB%8B%A8%EC%96%B4_%EB%B3%80%ED%99%98.py)|❌|
 |골드5|BFS/DFS|[7569](https://www.acmicpc.net/problem/7569)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/7569.py)|🚫|
 |level2|완전탐색|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)|⭕|
+|브론즈2|배열|[1919](https://www.acmicpc.net/problem/1919)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%B0%B0%EC%97%B4/1919.py)|🚫|
 
