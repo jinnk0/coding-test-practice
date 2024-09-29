@@ -22,4 +22,5 @@
 |골드5|BFS/DFS|[7569](https://www.acmicpc.net/problem/7569)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/7569.py)|🚫|
 |level2|완전탐색|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)|⭕|
 |브론즈2|배열|[1919](https://www.acmicpc.net/problem/1919)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%B0%B0%EC%97%B4/1919.py)|🚫|
-|실버|정렬|[10814](https://www.acmicpc.net/problem/10814)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/10814.py)|⭕|
+|실버5|정렬|[10814](https://www.acmicpc.net/problem/10814)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/10814.py)|⭕|
+|실버3|그리디|[20365](https://www.acmicpc.net/problem/20365)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/20365.py)|⭕|
