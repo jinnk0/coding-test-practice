@@ -25,3 +25,4 @@
 |실버5|정렬|[10814](https://www.acmicpc.net/problem/10814)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/10814.py)|⭕|
 |실버3|그리디|[20365](https://www.acmicpc.net/problem/20365)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/20365.py)|⭕|
 |실버3|스택/큐|[17952](https://www.acmicpc.net/problem/17952)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/17952.py)|🚫|
+|실버2|스택/큐|[28066](https://www.acmicpc.net/problem/28066)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/28066.py)|🚫|
