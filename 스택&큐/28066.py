@@ -5,7 +5,7 @@ queue = deque([i for i in range(N)])
 
 while (len(queue) > 1):
     if len(queue) > K:
-        queue.append(queue.popleft())
+        queue.rotate(-1)
         for _ in range(K-1):
             queue.popleft()
     else:
