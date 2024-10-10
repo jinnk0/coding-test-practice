@@ -28,3 +28,4 @@
 |실버2|스택/큐|[28066](https://www.acmicpc.net/problem/28066)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/28066.py)|🚫|
 |실버2|재귀|[23304](https://www.acmicpc.net/problem/23304)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9E%AC%EA%B7%80/23304.py)|⭕|
 |실버2|BFS/DFS|[2178](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2178.py)|🚫|
+|실버2|BFS/DFS|[21736](https://www.acmicpc.net/problem/21736)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/21736.py)|⭕|
