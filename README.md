@@ -29,3 +29,4 @@
 |실버2|재귀|[23304](https://www.acmicpc.net/problem/23304)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9E%AC%EA%B7%80/23304.py)|⭕|
 |실버2|BFS/DFS|[2178](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2178.py)|🚫|
 |실버2|BFS/DFS|[21736](https://www.acmicpc.net/problem/21736)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/21736.py)|⭕|
+|실버3|BFS/DFS|[2606](https://www.acmicpc.net/problem/2606)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2606.py)|🚫|
