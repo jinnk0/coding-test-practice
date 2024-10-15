@@ -8,14 +8,10 @@
 # 출력 : 배열 A의 모든 원소의 합의 최대값
 '''
 N, K = map(int, input().split())
-A = list(map(int, input().split()))
-B = list(map(int, input().split()))
+A = sorted(list(map(int, input().split())))
+B = sorted(list(map(int, input().split())), reverse=True)
 
-for _ in range(K):
-    maxB = max(B)
-    minA = min(A)
-    if minA < maxB:
-        A[A.index(minA)] = maxB
-        B[B.index(maxB)] = minA
+for i in range(K):
+    if A[i] < B[i]:
+        A[i], B[i] = B[i], A[i]
 print(sum(A))
-
