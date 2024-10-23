@@ -32,3 +32,4 @@
 |실버3|BFS/DFS|[2606](https://www.acmicpc.net/problem/2606)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2606.py)|🚫|
 |실버2|정렬|[3758](https://www.acmicpc.net/problem/3758)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/3758.py)|❌|
 |실버3|이진탐색|[19637](https://www.acmicpc.net/problem/19637)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/19637.py)|🚫|
+|실버4|이진탐색|[17266](https://www.acmicpc.net/problem/17266)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/17266.py)|⭕|
