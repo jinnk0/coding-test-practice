@@ -33,3 +33,4 @@
 |실버2|정렬|[3758](https://www.acmicpc.net/problem/3758)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/3758.py)|❌|
 |실버3|이진탐색|[19637](https://www.acmicpc.net/problem/19637)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/19637.py)|🚫|
 |실버4|이진탐색|[17266](https://www.acmicpc.net/problem/17266)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/17266.py)|⭕|
+|level3|다이나믹 프로그래밍|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=python3)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%A0%95%EC%88%98_%EC%82%BC%EA%B0%81%ED%98%95.py)|⭕|
