@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|골드5|다이나믹 프로그래밍|[2240](https://www.acmicpc.net/problem/2240)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2240.py)|❌|
 |level4|그리디|[무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%AC%B4%EC%A7%80%EC%9D%98_%EB%A8%B9%EB%B0%A9_%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)|❌|
 |level1|그리디|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|⭕|
 |level2|그리디|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py)|❌|
