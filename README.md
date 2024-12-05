@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|골드3|최단경로|[11779](https://www.acmicpc.net/problem/11779)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/11779.py)|🚫|
 |실버1|최단경로|[1446](https://www.acmicpc.net/problem/1446)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/1446.py)|⭕|
 |실버2|그리디|[1541](https://www.acmicpc.net/problem/1541)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1541.py)|⭕|
 |실버1|그리디|[1946](https://www.acmicpc.net/problem/1946)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1946.py)|⭕|
