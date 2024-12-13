@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버3|누적 합|[12847 - 꿀 아르바이트](https://www.acmicpc.net/problem/12847)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B8%B0%ED%83%80/12847.py)|⭕|
 |골드4|구현|[14502](https://www.acmicpc.net/problem/14502)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/14502.py)|❌|
 |골드3|구현|[15685](https://www.acmicpc.net/problem/15685)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/15685.py)|⭕|
 |실버2|BFS/DFS|[11123](https://www.acmicpc.net/problem/11123)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/11123.py)|⭕|
