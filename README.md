@@ -6,7 +6,8 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
-|실버2|누적 합|[10025 게으른 백곰](https://www.acmicpc.net/problem/10025)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B8%B0%ED%83%80/10025.py)|🚫|
+|실버3|구현|[1966 프린터 큐](https://www.acmicpc.net/problem/1966)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/1966.py)|⭕|
+|실버3|누적 합|[10025 게으른 백곰](https://www.acmicpc.net/problem/10025)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B8%B0%ED%83%80/10025.py)|🚫|
 |실버3|해시|[22233 가희와 키워드](https://www.acmicpc.net/problem/22233)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%ED%95%B4%EC%8B%9C/22233.py)|⭕|
 |level2|해시|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)|🚫|
 |실버3|누적 합|[12847 꿀 아르바이트](https://www.acmicpc.net/problem/12847)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B8%B0%ED%83%80/12847.py)|⭕|
