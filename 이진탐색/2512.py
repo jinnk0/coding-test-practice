@@ -11,7 +11,7 @@ if sum(budgets) <= M:
     print(max(budgets))
 else:
     start = 0
-    end = end = max(budgets)
+    end = max(budgets)
     while start <= end:
         mid = (start + end) // 2
         total = sum(min(mid, budget) for budget in budgets)
