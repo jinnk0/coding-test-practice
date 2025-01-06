@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버4|스택/큐|[4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/4949.py)|🚫|
 |실버3|구현|[1966 프린터 큐](https://www.acmicpc.net/problem/1966)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/1966.py)|⭕|
 |실버3|누적 합|[10025 게으른 백곰](https://www.acmicpc.net/problem/10025)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B8%B0%ED%83%80/10025.py)|🚫|
 |실버3|해시|[22233 가희와 키워드](https://www.acmicpc.net/problem/22233)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%ED%95%B4%EC%8B%9C/22233.py)|⭕|
