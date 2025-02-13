@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버2|구현|[2607 비슷한 단어](https://www.acmicpc.net/problem/2607)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/2607.py)|🚫|
 |실버2|이진탐색|[2512 예산](https://www.acmicpc.net/problem/2512)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/2512.py)|🚫|
 |실버4|스택/큐|[4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/4949.py)|🚫|
 |실버3|구현|[1966 프린터 큐](https://www.acmicpc.net/problem/1966)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/1966.py)|⭕|
