@@ -18,15 +18,7 @@ for _ in range(T):
         elif numbers.count(number) == 6:
             teams[number].append(score)
             score += 1
-    min_score = N*6
-    winner = 0
-    for team in teams.keys():
-        score = sum(teams[team][:4])
-        if score < min_score:
-            min_score = score
-            winner = team
-        elif score == min_score:
-            if teams[team][4] < teams[winner][4]:
-                winner = team
+    result = list(teams.keys())
+    result.sort(key=lambda x : (sum(teams[x][:4]), teams[x][4]))
 
-    print(winner)
+    print(result[0])
