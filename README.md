@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버3|수학|[4375 1](https://www.acmicpc.net/problem/4375)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/4375.py)|🚫|
 |실버3|구현|[9017 크로스 컨트리](https://www.acmicpc.net/problem/9017)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/9017.py)|⭕|
 |실버2|구현|[2607 비슷한 단어](https://www.acmicpc.net/problem/2607)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/2607.py)|🚫|
 |실버2|이진탐색|[2512 예산](https://www.acmicpc.net/problem/2512)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/2512.py)|🚫|
