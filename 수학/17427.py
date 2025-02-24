@@ -12,3 +12,14 @@ for i in range(1, N + 1):
         sum_divisors[j] += i
 
 print(sum(sum_divisors))
+
+'''
+# 수식을 이용한 풀이
+N = int(input())
+sum = 0
+
+for i in range(1, N+1):
+    sum += i * (N//i) 
+
+print(sum)
+'''
