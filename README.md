@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버3|다이나믹 프로그래밍|[14501 퇴사](https://www.acmicpc.net/problem/14501)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/14501.py)|⭕|
 |실버1|수학|[6064 카잉 달력](https://www.acmicpc.net/problem/6064)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/6064.py)|🚫|
 |실버3|다이나믹 프로그래밍|[9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9095.py)|❌|
 |실버4|구현|[1748 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/1748.py)|🚫|
