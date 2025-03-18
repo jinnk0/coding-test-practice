@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버3|수학|[10972 다음 순열](https://www.acmicpc.net/problem/10972)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/10972_%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4.py)|❌|
 |실버1|완전탐색|[2529 부등호](https://www.acmicpc.net/problem/2529)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2529_%EB%B6%80%EB%93%B1%ED%98%B8.py)|⭕|
 |실버1|완전탐색|[14889 스타트와 링크](https://www.acmicpc.net/problem/14889)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80_%EB%A7%81%ED%81%AC.py)|❌|
 |실버3|다이나믹 프로그래밍|[14501 퇴사](https://www.acmicpc.net/problem/14501)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/14501.py)|⭕|
