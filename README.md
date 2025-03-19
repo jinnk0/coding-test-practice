@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버2|완전탐색|[10819 차이를 최대로](https://www.acmicpc.net/problem/10819)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/10819_%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py)|⭕|
 |실버3|수학|[10973 이전 순열](https://www.acmicpc.net/problem/10973)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/10973_%EC%9D%B4%EC%A0%84%20%EC%88%9C%EC%97%B4.py)|⭕|
 |실버3|수학|[10972 다음 순열](https://www.acmicpc.net/problem/10972)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/10972_%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4.py)|❌|
 |실버1|완전탐색|[2529 부등호](https://www.acmicpc.net/problem/2529)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2529_%EB%B6%80%EB%93%B1%ED%98%B8.py)|⭕|
