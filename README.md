@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버3|다이나믹 프로그래밍|[1463 1로 만들기](https://www.acmicpc.net/problem/1463)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|🚫|
 |실버2|완전탐색|[10971 외판원 순회 2](https://www.acmicpc.net/problem/10971)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/10971_%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C%202.py)|🚫|
 |실버2|완전탐색|[10819 차이를 최대로](https://www.acmicpc.net/problem/10819)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/10819_%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py)|⭕|
 |실버3|수학|[10973 이전 순열](https://www.acmicpc.net/problem/10973)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%88%98%ED%95%99/10973_%EC%9D%B4%EC%A0%84%20%EC%88%9C%EC%97%B4.py)|⭕|
