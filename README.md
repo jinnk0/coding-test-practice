@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버1|다이나믹 프로그래밍|[10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/10844_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.py)|⭕|
 |실버1|다이나믹 프로그래밍|[15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/15990_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0%205.py)|🚫|
 |실버1|다이나믹 프로그래밍|[11052 카드 구매하기](https://www.acmicpc.net/problem/11052)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11052_%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.py)|⭕|
 |실버3|다이나믹 프로그래밍|[11726 2xn 타일링](https://www.acmicpc.net/problem/11726)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11726_2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.py)|⭕|
