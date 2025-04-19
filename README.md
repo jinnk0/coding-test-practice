@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버1|다이나믹 프로그래밍|[1149 RGB거리](https://www.acmicpc.net/problem/1149)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1149_RGB%EA%B1%B0%EB%A6%AC.py)|⭕|
 |실버2|다이나믹 프로그래밍|[1699 제곱수의 합](https://www.acmicpc.net/problem/1699)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1699_%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9.py)|🚫|
 |실버2|다이나믹 프로그래밍|[1912 연속합](https://www.acmicpc.net/problem/1912)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1912_%EC%97%B0%EC%86%8D%ED%95%A9.py)|⭕|
 |실버2|다이나믹 프로그래밍|[11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)|🚫|
