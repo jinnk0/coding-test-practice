@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버2|BFS/DFS|[11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|⭕|
 |골드4|다이나믹 프로그래밍|[2133 타일 채우기](https://www.acmicpc.net/problem/2133)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2133_%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0.py)|🚫|
 |실버1|다이나믹 프로그래밍|[1932 정수 삼각형](https://www.acmicpc.net/problem/1932)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1932_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)|⭕|
 |실버1|다이나믹 프로그래밍|[2156 포도주 시식](https://www.acmicpc.net/problem/2156)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py)|🚫|
