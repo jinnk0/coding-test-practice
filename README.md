@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버1|BFS/DFS|[2178 미로 탐색](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2178_%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py)|⭕|
 |실버1|BFS/DFS|[2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)|⭕|
 |실버2|BFS/DFS|[11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|⭕|
 |골드4|다이나믹 프로그래밍|[2133 타일 채우기](https://www.acmicpc.net/problem/2133)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2133_%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0.py)|🚫|
@@ -76,7 +77,6 @@
 |실버3|스택/큐|[17952](https://www.acmicpc.net/problem/17952)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/17952.py)|🚫|
 |실버2|스택/큐|[28066](https://www.acmicpc.net/problem/28066)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90/28066.py)|🚫|
 |실버2|재귀|[23304](https://www.acmicpc.net/problem/23304)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%9E%AC%EA%B7%80/23304.py)|⭕|
-|실버2|BFS/DFS|[2178](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2178.py)|🚫|
 |실버2|BFS/DFS|[21736](https://www.acmicpc.net/problem/21736)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/21736.py)|⭕|
 |실버3|BFS/DFS|[2606](https://www.acmicpc.net/problem/2606)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2606.py)|🚫|
 |실버2|정렬|[3758](https://www.acmicpc.net/problem/3758)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EC%A0%95%EB%A0%AC/3758.py)|❌|
