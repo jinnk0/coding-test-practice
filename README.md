@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|평가|
 |---|---|---|---|---|
+|실버5|그리디|[1439 뒤집기](https://www.acmicpc.net/problem/1439)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1439_%EB%92%A4%EC%A7%91%EA%B8%B0.py)|⭕|
 |골드4|그래프 이론|[1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/1647_%EB%8F%84%EC%8B%9C%20%EB%B6%84%ED%95%A0%20%EA%B3%84%ED%9A%8D.py)|❌|
 |실버1|BFS/DFS|[2178 미로 탐색](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2178_%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py)|⭕|
 |실버1|BFS/DFS|[2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/BFS%26DFS/2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)|⭕|
