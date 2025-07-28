@@ -8,21 +8,13 @@
 # 입력 : 현재 점수 N (10 <= N <= 99,999,999, N은 정수이고, N의 자릿수는 항상 짝수)
 # 출력 : 럭키 스트레이트를 사용할 수 있다면 "LUCKY", 없다면 "READY" 출력
 '''
-# 현재 점수 N 입력 받기 (문자열로)
 N = input()
-# N의 길이를 기준으로 왼쪽/오른쪽 분할
-left = N[:len(N)//2]
-right = N[len(N)//2:]
-# 각 자릿수의 합을 계산하는 함수 
-def sum_of_digits(number):
-    sum = 0
-    while(number != 0):
-        sum += (number % 10)
-        number //= 10
-    return sum
-
+mid = len(N) // 2
+# N의 길이를 기준으로 왼쪽/오른쪽 분할하여 각 자릿수의 합 계산
+left = sum(map(int, N[:mid]))
+right = sum(map(int, N[mid:]))
 # 왼쪽, 오른쪽의 자릿수 합이 같다면 "LUCKY" 출력
-if sum_of_digits(int(left)) == sum_of_digits(int(right)):
+if left == right:
     print("LUCKY")
 # 다르면 "READY" 출력
 else:
