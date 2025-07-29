@@ -12,30 +12,20 @@
 def solution(s):
     answer = len(s)
     # 문자열 단위를 1부터 문자열의 길이 / 2까지 반복하며 가장 짧은 문자열의 길이(answer) 저장 (1000 x 500 -> 최악의 경우 5만번)
-    for i in range(1, len(s)//2 + 1):
+    for size in range(1, len(s)//2 + 1):
         # 문자열 앞에서 문자열 분할 단위 기준으로 건너뛰며 확인 (이전 문자열 단위 저장 prev)
-        prev = ""
+        prev_substr = s[:size]
         count = 1
-        div_string = ""
-        for j in range(0, len(s), i):
-            check = s[j:j+i]
-            if j == 0:
-                prev = check
-                continue
-            
+        compressed = ""
+        for j in range(size, len(s), size):
+            curr_substr = s[j:j+size]
             # 이전 문자열 단위와 비교하여 같은 경우 count + 1
-            if prev == check:
+            if prev_substr == curr_substr:
                 count += 1
             else: # 다른 경우 압축된 문자열에 count + prev를 추가하고 prev 현재 문자 단위로 변경
-                if count > 1:
-                    div_string += (str(count) + prev)
-                else:
-                    div_string += prev
-                prev = check
+                compressed += f"{count}{prev_substr}" if count > 1 else prev_substr
+                prev_substr = curr_substr
                 count = 1
-        if count > 1:
-            div_string += (str(count) + prev)
-        else:
-            div_string += prev
-        answer = min(answer, len(div_string))
+        compressed += f"{count}{prev_substr}" if count > 1 else prev_substr
+        answer = min(answer, len(compressed))
     return answer
