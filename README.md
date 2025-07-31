@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|1회차|2회차|
 |---|---|---|---|---|---|
+|골드4|구현|[3190 뱀](https://www.acmicpc.net/problem/3190)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/3190_%20%EB%B1%80.py)|🚫||
 |lv.3|구현|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.py)|🚫||
 |lv.2|구현|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)|⭕||
 |브론즈2|구현|[18406 럭키 스트레이트](https://www.acmicpc.net/problem/18406)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/18406_%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8.py)|⭕||
