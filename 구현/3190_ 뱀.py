@@ -14,53 +14,57 @@
 # 출력 : 게임이 종료되는 시간
 '''
 import sys
+from collections import deque
 input = sys.stdin.readline
 
 N = int(input())
 K = int(input())
-apples = []
+apples = set()
 for _ in range(K):
     a, b = map(int, input().split())
-    apples.append((a, b))
+    apples.add((a, b))
 L = int(input())
-routes = []
+routes = {}
 for _ in range(L):
     X, C = input().strip().split()
-    routes.append((int(X), C))
+    routes[int(X)] = C
 
 # 뱀의 이동 경로 시뮬레이션
 curr = 0 # 게임 시간
-snakes = [(1, 1)] # 뱀의 현재 차지하고 있는 위치
-head = (1, 1) # 뱀의 머리 위치
+snakes_pos = set() # 뱀의 현재 차지하고 있는 위치 (충돌 체크)
+snakes_pos.add((1, 1))
+snakes = deque([(1, 1)]) # 뱀의 머리부터 꼬리까지 위치 (순서대로)
 directions = [(0, 1), (1, 0), (0, -1), (-1, 0)] # 회전 시 방향
 direct = 0 # 시작할 때 향하는 방향(오른쪽)
-flag = True
-x, c = routes.pop(0)
+game_running = True
 
-while flag:
+while game_running:
     curr += 1
 
     # 먼저 몸길이를 늘려 머리를 다음칸으로 이동
-    head = (head[0] + directions[direct][0], head[1] + directions[direct][1])
-    if head[0] <= 0 or head[0] > N or head[1] <= 0 or head[1] > N or head in snakes: # 벽이나 자기자신의 몸과 부딪힌 경우
-        flag = False # 게임 종료
+    head = (snakes[0][0] + directions[direct][0], snakes[0][1] + directions[direct][1])
+    if not (0 < head[0] <= N and 0 < head[1] <= N) or head in snakes_pos: # 벽이나 자기자신의 몸과 부딪힌 경우
+        game_running = False # 게임 종료
+        continue
     # 이동한 칸에 사과가 있는지 확인
     if head in apples: # 이동한 칸에 사과가 있다면
         apples.remove(head) # 그 칸에 있던 사과 제거
         # 꼬리는 움직이지 않고 머리칸만큼 뱀 길이 증가
-        snakes.insert(0, head) 
+        snakes.appendleft(head)
+        snakes_pos.add(head)
     else: # 이동한 칸에 사과가 없다면
         # 꼬리가 위치한 칸을 비움
-        snakes.insert(0, head)
-        snakes.pop() 
+        snakes.appendleft(head)
+        snakes_pos.add(head)
+        tail = snakes.pop()
+        snakes_pos.remove(tail)
     
     # x초 후에 방향 전환
-    if curr == x: 
+    if curr in routes: 
+        c = routes[curr]
         if c == 'D': # 오른쪽으로 회전
             direct = (direct + 1) % 4
         else: # 왼쪽으로 회전
             direct = (direct + 3) % 4
-        if routes: x, c = routes.pop(0)  
 
 print(curr)
-    
