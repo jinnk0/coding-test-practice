@@ -6,6 +6,7 @@
 
 |난이도|유형|문제|풀이|1회차|2회차|
 |---|---|---|---|---|---|
+|골드5|구현|[15686 치킨 배달](https://www.acmicpc.net/problem/15686)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/15686_%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.py)|🚫||
 |lv.3|구현|[기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.py)|❌||
 |골드4|구현|[3190 뱀](https://www.acmicpc.net/problem/3190)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/3190_%20%EB%B1%80.py)|🚫||
 |lv.3|구현|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[풀이](https://github.com/jinnk0/coding-test-practice/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.py)|🚫||
