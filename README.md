@@ -93,4 +93,4 @@
 | **BOJ** | [10814 나이순 정렬](https://www.acmicpc.net/problem/10814) | S5 | 정렬 | ⭕ | [Code]() | 🗓️ | [Link]() |
 | **PG** | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | 그리디 | ⭕ | [Code]() | 🗓️ | [Link]() |
 | **BOJ** | [18406 럭키 스트레이트](https://www.acmicpc.net/problem/18406) | B2 | 구현 | ⭕ | [Code]() | 🗓️ | [Link]() |
-| **BOJ** | [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919) | B2 | 배열 | ❌ | [Code]() | 🗓️ | [Link]() |
+| **BOJ** | [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919) | B2 | 배열 | ❌ | [Code](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%B0%B0%EC%97%B4/BOJ_1919_%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/solution.py) | 🗓️ | [Link](https://github.com/jinnk0/coding-test-practice/blob/main/%EB%B0%B0%EC%97%B4/BOJ_1919_%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/note.md) |
