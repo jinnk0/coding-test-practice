@@ -15,3 +15,5 @@
 ## ✍️ 언어별 차이 및 복습
 - **Python:** `sort()` 하나면 해결되는데 코드가 매우 간결함.
 - **Java:** `PriorityQueue` 사용 시 `Comparator`를 직접 정의해줘야 함. (문법 다시 체크!)
+
+## 🚀 보완할 점 & 더 좋은 해결 방법 (Best Practice)
